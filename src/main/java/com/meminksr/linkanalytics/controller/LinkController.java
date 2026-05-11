@@ -81,4 +81,6 @@ public class LinkController {
 
         return ResponseEntity.ok(response);
     }
+
+    // ALLAH BÜYÜKTÜR
 }
